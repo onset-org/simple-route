@@ -66,11 +66,6 @@ private function handler(){
 - public $login_page = "Login Page.";  //Can be changed on file or 
 - public $error = "Error: (404). Page don`t find.";  //You can use file or text to Error handler.  
 ```
-## Additational usage
-```php
-# index.php
-require_once 'router.php';
-```
 
 ## Authors
 * **Bohdan Pukhovskyi** - [facebook](https://www.facebook.com/bohdan.pukhovskyi)
@@ -78,5 +73,5 @@ require_once 'router.php';
 ## License 
 #### [The MIT License (MIT)](https://choosealicense.com/licenses/mit/)
 
-Copyright (c) 2016 Simon Sessingø / simple-php-router
+Copyright (c) 2020 ONSET / router-simple 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software
