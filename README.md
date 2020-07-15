@@ -1,7 +1,7 @@
-# Router Simple ![alt text][logo]
+# Router Simple ![alt text][onset]
 
-[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon24.png "ONSET"
-[logo2]:https://i.ibb.co/yB6bdWF/24px.png "ONSET"
+[onset]:https://i.ibb.co/SN2HNY4/24px.png "ONSET"
+[github]:https://avatars3.githubusercontent.com/u/68329664?s=200&v=4 "ONSET"
 
 **Router Sipmle** is a PHP library for routing system work only with POST requests.
 *Version 1.0 alfa*.
