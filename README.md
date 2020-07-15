@@ -13,10 +13,7 @@ Use the package manager [git](https://commandbox.ortusbooks.com/package-manageme
 ```bash
 git clone router-simple
 ```
-Or [wget](https://commandbox.ortusbooks.com/package-management/code-endpoints/git) to install Router Simple.
-```bash
-wget https://github/router-simple.zip
-```
+
 ## Basic usage
 ```php
 # index.php
