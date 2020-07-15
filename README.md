@@ -11,7 +11,7 @@
 
 Use the package manager [git](https://commandbox.ortusbooks.com/package-management/code-endpoints/git) to install Router Simple.
 ```bash
-git clone router-simple
+git clone https://github.com/onset-org/simple-route.git
 ```
 
 ## Basic usage
