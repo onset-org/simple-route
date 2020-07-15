@@ -3,11 +3,6 @@
 [logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon24.png "ONSET"
 [logo2]:https://i.ibb.co/yB6bdWF/24px.png "ONSET"
 
-
-[![IMAGE ALT TEXT HERE](https://i.ytimg.com/an_webp/28f4d-qlgUM/mqdefault_6s.webp?du=3000&sqp=COOOufgF&rs=AOn4CLDtpLAbYf29r8T3j8bWfh26E8bn1g)][video]
-
-[video]:https://www.youtube.com/watch?v=28f4d-qlgUM
-
 **Router Sipmle** is a PHP library for routing system work only with POST requests.
 *Version 1.0 alfa*.
 
