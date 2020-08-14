@@ -13,6 +13,10 @@ Use the package manager [git](https://commandbox.ortusbooks.com/package-manageme
 ```bash
 git clone https://github.com/onset-org/simple-route.git
 ```
+Or Wget
+```bash
+wget https://github.com/onset-org/simple-route/archive/master.zip
+```
 
 ## Basic usage
 ```php
